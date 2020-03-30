@@ -8,26 +8,26 @@ README created March 30, 2020
 ### Description
 In this project, I used Python to explore data provided by Motivate related to bike share systems for three major cities. I wrote code to compare the  usage between the cities of Chicago, New York City, and Washington, DC.
 
-#The Datasets
+##### The Datasets
 Randomly selected data for the first six months of 2017 were provided for all three cities.
 
-#Statistics Computed
+#### Statistics Computed
 
-**Popular times of travel**
+*Popular times of travel*
 * most common month
 * most common day of week
 * most common hour of day
 
-**Popular stations and trip**
+*Popular stations and trip*
 * most common start station
 * most common end station
 * most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-**Trip duration**
+*Trip duration*
 * total travel time
 * average travel time
 
-**User info**
+*User info*
 * counts of each user type
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
