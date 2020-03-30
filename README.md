@@ -60,3 +60,7 @@ https://realpython.com/documenting-python-code/
 
 For help with markdown:
 https://wordpress.com/support/markdown-quick-reference/
+
+For help with refactoring:
+https://github.com/khaledimad/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py
+https://pybit.es/refactoring.html
