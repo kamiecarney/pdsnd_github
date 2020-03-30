@@ -57,3 +57,6 @@ https://www.geeksforgeeks.org/python-extracting-rows-using-pandas-iloc/
 For Docstring help:
 https://www.datacamp.com/community/tutorials/docstrings-python
 https://realpython.com/documenting-python-code/
+
+For help with markdown:
+https://wordpress.com/support/markdown-quick-reference/
